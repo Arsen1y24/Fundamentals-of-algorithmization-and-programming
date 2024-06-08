@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>../../../spriteGuyLeft.png</file>
+        <file>../../../spriteGuyRight.png</file>
+        <file>../../../spriteGoblin.png</file>
+        <file>../../../carEmpty2.png</file>
+        <file>../../../carWithGoblin1.png</file>
+        <file>../../../spriteGoblinReverse.png</file>
+        <file>../../../spriteMarkerJump.png</file>
+        <file>../../../drawing.png</file>
+    </qresource>
+</RCC>

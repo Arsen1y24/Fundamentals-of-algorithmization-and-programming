@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imageMarker.png</file>
+        <file>../../../paperClips.png</file>
+        <file>../../../pocket.png</file>
+    </qresource>
+</RCC>
